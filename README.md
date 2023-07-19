@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marcos Paulo and I'm a Software Analysis and Development from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Marcos Paulo and I'm a Software Analysis and Development from Brazil</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -47,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="kingzabitus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
