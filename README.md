@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Marcos Paulo and I'm a Software Analysis and Development from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Marcos Paulo and I'm a Software Analysis and Development student from Brazil</h2>
 
 ###
 
