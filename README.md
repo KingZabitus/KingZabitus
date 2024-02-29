@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marcos and I'm a Software Developer, from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Marcos and I'm a Software Developer, from Brazil.</h2>
 
 ###
 
@@ -9,6 +9,8 @@
 ###
 
 <br clear="both">
+<h2 align="center">These are the stacks i'm currently studying or have studied:</h2>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
