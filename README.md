@@ -9,7 +9,7 @@
 ###
 
 <br clear="both">
-<h2 align="center">These are the stacks i'm currently studying or have studied:</h2>
+<h2 align="center">These are the stacks I'm currently studying or have studied:</h2>
 <br>
 
 ###
