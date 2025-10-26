@@ -2,15 +2,15 @@
 
 ###
 
-<img align="left" height="300" src="https://media.tenor.com/mvt1GCPb-hgAAAAM/furret-sprigatito.gif"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/f9/2e/34/f92e3421f536d8c38b1c1edd589c11bf.gif"  />
 
 ###
 
-<h3 align="center">These are the Stacks I'm currently studying/using or have studied/used:</h3>
+<h3 align="right">These are the Stacks I'm currently studying/using or have studied/used:</h3>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
@@ -48,11 +48,11 @@
 
 ###
 
-<h3 align="center">These are my socials:</h3>
+<h3 align="right">These are my socials:</h3>
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/marcos-paulo-alves-garcia-0b2545276/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -63,10 +63,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingzabitus/kingzabitus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingzabitus/kingzabitus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kingzabitus/kingzabitus/output/pacman-contribution-graph.svg">
-</picture>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=3D1C4A&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=3D1C4A"  />
+</div>
 
 ###
