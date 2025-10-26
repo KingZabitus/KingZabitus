@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="300" src="https://i.pinimg.com/originals/f9/2e/34/f92e3421f536d8c38b1c1edd589c11bf.gif"  />
+<img align="left" height="300" src="https://i.imgur.com/wTQLuuD.gif"  />
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<div>
+<div> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=3D1C4A&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=3D1C4A"  />
 </div>
 
